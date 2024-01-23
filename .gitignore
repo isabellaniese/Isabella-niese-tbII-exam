@@ -1,1 +1,2 @@
-
+#this is for all folders that I don't want to be seen
+__pycache__/
