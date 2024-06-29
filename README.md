@@ -21,7 +21,7 @@ From the Homepage, you can explore three features:
 
 1. Please download the file `app.py` and the folder `src`, which contains the file `extras.py`!
 2. You also need the folders `images` (which contains 11 images) and `music` (which contains 1 file of music) for the ideal user experience of PlantyPoppins!
-3. After downloading all files, open the repository in your directory!
+3. After downloading all files into a location of your choice, please open the repository in your directory!
 
 4. Important: Since Planty Poppins uses the libaries Tkinter and Pillow, make sure you install them before running the code!
 5. Run the code by using
