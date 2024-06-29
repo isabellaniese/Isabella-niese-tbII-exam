@@ -1,4 +1,4 @@
-# TechBasics II Isabella Niese: PlantyPoppins 👒👜🐝🐛🌱🪴🍄
+# TechBasics II Isabella N.: PlantyPoppins 👒👜🐝🐛🌱🍄
 
 ## Hey and welcome, dear plant enthusiast!
 
