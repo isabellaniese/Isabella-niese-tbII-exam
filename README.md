@@ -5,6 +5,7 @@
 Allow me to introduce Planty Poppins, your whimsical guide to all things green and leafy! Just like myself, this charming app is practically perfect in every way, designed to bring a spoonful of fun and a sprinkle of magic into your plant care routine.
 
 Whether you're already a plant lover or just starting your journey into the world of greenery, With a dash of plant-loving magic, Planty Poppins is here to make plant care a delightful adventure. So, why not step into our world?
+                                                                  **- Mary Poppins**
 
 ## How does Planty Poppins work?
 
