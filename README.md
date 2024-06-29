@@ -15,7 +15,7 @@ From the Homepage, you can explore three features:
 
 **"My Next Plant"**: Take a quiz to find out which plant suits you best. Discover your perfect plant match based on your preferences!
 
-**"My Groceries"**: Get inspired by a magical shopping list of plant essentials. Create your own list to prepare for your next plant-shopping adventure!
+**"My Groceries"**: Get inspired by a magical shopping list of plant essentials. Create your own list to be perfectly prepared for your next plant-shopping adventure!
 
 ## Instructions for the User
 
