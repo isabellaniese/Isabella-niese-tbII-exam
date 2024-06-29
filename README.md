@@ -13,8 +13,8 @@ Starting from the Homepage, the User can choose between three functions: When cl
 
 ## Instructions for the User
 
-1. Please download the files `Planty.Poppins` and `scr.py`!
-2. You also need the folders `images` (which contains 11 images) and `music` (which contains 1 file of music) for the whole experience of PlantyPoppins!
+1. Please download the files `Planty.Poppins` and the folder 'scr', which contains the file `helpers.py`!
+2. For the ideal user experience, you also need the folders `images` (which contains 11 images) and `music` (which contains 1 file of music) for the whole experience of PlantyPoppins!
 3. After downloading all files, open the repository in your directory by using:
    cd TechBasics2 ?
 
