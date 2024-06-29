@@ -32,3 +32,5 @@ From the Homepage, you can explore three features:
    ```
    For Windows: python app.py
    ```
+
+   Have **PLANTY** of fun while exploring PlantyPoppins! 🪷🌿🌟
