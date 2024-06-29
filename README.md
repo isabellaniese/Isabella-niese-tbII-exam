@@ -1,4 +1,5 @@
-# Isabella-niese-tbII-exam
+
+![mary_poppins_checkbox](https://github.com/isabellaniese/Isabella-niese-tbII-exam/assets/150139802/000e7324-64b5-40c5-a7c3-cdee5497f141)
 
 # Hey and welcome, dear plant enthusiast!
 
