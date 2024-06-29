@@ -37,7 +37,7 @@ def homepage(root, image_file_path):
                             font="Arial 38 bold",
                             command=test)
     test_button.place(x=50,y=325)
-
+ 
     #Create the button that leads to the "My groceries" Page
     list_button = tk.Button(text= "My groceries",
                             font="Arial 38 bold",
@@ -165,7 +165,7 @@ def show_options_cooking(choice1):
     #Clear the page and set new background
     clear_page(root)
     root.configure(bg="#F3CC91")
-    print(choice1)
+    #print(choice1)
 
     #If-Else Statement to react on the User's previous answer
     if choice1 == "no_time":
@@ -209,8 +209,8 @@ def show_result(choice1, choice2):
     #Clear all existing widgets
     clear_page(root)
 
-    print(choice1)
-    print(choice2)
+    #print(choice1)
+    #print(choice2)
 
     #If-Else Statement to react to the User's given answer
     if choice2 == "yes_cooking":
