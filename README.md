@@ -30,5 +30,5 @@ From the Homepage, you can explore three features:
    ```
    For Windows: python app.py
    ```
-5. Please note that pictures of the MVP (in case your system displays the GUI differently than expected) can be found in `Pictures MVP.pdf`. If you want to learn more about the app PlantyPoppins, feel free to read the paper `techbasics_report_isabella_niese.pdf`
+5. Please note that pictures of the MVP (in case your system displays the GUI differently than expected) can be found in `Pictures MVP.pdf`. If you want to learn more about the app PlantyPoppins, feel free to read the paper `techbasicsII_report_isabella_niese.pdf`
    Have **PLANTY** of fun while exploring PlantyPoppins! 🪷🌿🌟
