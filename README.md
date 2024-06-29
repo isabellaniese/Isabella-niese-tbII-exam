@@ -11,11 +11,11 @@ Whether you're already a plant lover or just starting your journey into the worl
 
 From the Homepage, you can explore three features:
 
-- "All My Plants": Meet your two charming plant companions! Here, you can water them and check their health—just like tending to your real plants!
+"All My Plants": Meet your two charming plant companions! Here, you can water them and check their health—just like tending to your real plants!
 
-- "My Next Plant": Take a quiz to find out which plant suits you best. Discover your perfect plant match based on your preferences!
+"My Next Plant": Take a quiz to find out which plant suits you best. Discover your perfect plant match based on your preferences!
 
-- "My Groceries": Get inspired by a magical shopping list of plant essentials. Create your own list to prepare for your next plant-shopping adventure!
+"My Groceries": Get inspired by a magical shopping list of plant essentials. Create your own list to prepare for your next plant-shopping adventure!
 
 ## Instructions for the User
 
