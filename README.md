@@ -19,7 +19,7 @@ From the Homepage, you can explore three features:
 
 ## Instructions for the User
 
-1. Please download the files `app.py` and the folder `scr`, which contains the file `extras.py`!
+1. Please download the files `app.py` and the folder `src`, which contains the file `extras.py`!
 2. You also need the folders `images` (which contains 11 images) and `music` (which contains 1 file of music) for the ideal user experience of PlantyPoppins!
 3. After downloading all files, open the repository in your directory!
 
