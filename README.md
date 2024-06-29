@@ -1,6 +1,6 @@
 # TechBasics II Isabella Niese: PlantyPoppins 👒👜🐝🐛🌱🪴🍄
 
-# Hey and welcome, dear plant enthusiast!
+## Hey and welcome, dear plant enthusiast!
 
 Allow me to introduce Planty Poppins, your whimsical guide to all things green and leafy! Just like myself, this charming app is practically perfect in every way, designed to bring a spoonful of fun and a sprinkle of magic into your plant care routine.
 
